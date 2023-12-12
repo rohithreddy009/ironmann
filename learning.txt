@@ -1,3 +1,3 @@
 Now i successfully learnt to make changes from the upstream using git
 but it is not updating in github
-i think it will update when i make commit to the forked repo
+i think it will update when i make commit to the forked repo (Yeah these will get reflected only when you push from git to github)
